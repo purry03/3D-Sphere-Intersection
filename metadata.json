@@ -1,0 +1,5 @@
+{
+  "name": "3D Sphere Intersection Visualizer",
+  "description": "A 3D interactive tool that visualizes the intersection of two spheres. Control a point in 3D space with sliders, and see how two spheres, whose radii are determined by the distance to the point, intersect to form a circle.",
+  "requestFramePermissions": []
+}
